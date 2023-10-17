@@ -6,9 +6,7 @@
 * Created by Jingjie Luo , Haidong Shao *, Hongru Cao , Xingkai Chen , Baoping Cai , Bin Liu.
 * Journal: Journal of Manufacturing Systems
 
-<div align="center">
-<img src="https://github.com/yanshen0210/LiConvFormer-a-lightweight-fault-diagnosis-framework/blob/main/framework.jpg" width="600" />
-</div>
+
 
 ## Our operating environment
 * Python 3.8
