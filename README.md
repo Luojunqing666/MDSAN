@@ -5,7 +5,6 @@
 <br> [Modified DSAN for unsupervised cross-domain fault diagnosis of bearing under speed fluctuation](https://www.sciencedirect.com/science/article/pii/S0278612522001455?dgcid=coauthor)
 * Created by Jingjie Luo , Haidong Shao *, Hongru Cao , Xingkai Chen , Baoping Cai , Bin Liu.
 * Journal: Journal of Manufacturing Systems
-* Code about Modified Subdomain Adaptaion for cross-domain fault diagnosis of bearing
 
 <div align="center">
 <img src="https://github.com/yanshen0210/LiConvFormer-a-lightweight-fault-diagnosis-framework/blob/main/framework.jpg" width="600" />
