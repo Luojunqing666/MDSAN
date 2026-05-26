@@ -8,7 +8,8 @@
 > Jingjie Luo, Haidong Shao*, Hongru Cao, Xingkai Chen, Baoping Cai, Bin Liu
 >
 > *Journal of Manufacturing Systems*, Volume 65, 2022, Pages 180-191
-
+> 
+（本科期间的成果了，现在回看，还有很多能进一步改进和优化的，请多见谅 ⊙﹏⊙ ）
 ---
 
 ## Overview
@@ -156,9 +157,11 @@ If you find this work useful, please cite:
 [![论文](https://img.shields.io/badge/论文-Journal%20of%20Manufacturing%20Systems-blue)](https://doi.org/10.1016/j.jmsy.2022.09.004)
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
 
-> 罗景杰, 邵海东*, 曹宏瑞, 陈兴凯, 蔡宝平, 刘斌
+> 罗靖捷, 邵海东*, 曹鸿儒, 陈星凯, 蔡宝平, 刘斌
 >
 > *Journal of Manufacturing Systems*, 第65卷, 2022, 第180-191页
+> 
+> （本科期间的成果了，现在回看，还有很多能进一步改进和优化的，请多见谅 ⊙﹏⊙ ）
 
 ---
 
