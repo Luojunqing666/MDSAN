@@ -17,7 +17,7 @@
 MDSAN is a domain adaptation framework for unsupervised cross-domain fault diagnosis of bearings under speed fluctuation conditions. It combines a **1D CNN with multi-head self-attention** for feature extraction and **Local Maximum Mean Discrepancy (LMMD)** for subdomain-level distribution alignment, enabling effective knowledge transfer between different operating speeds without target domain labels.
 
 <div align="center">
-<img src="figures/framework.png" width="700" />
+<img src="研究流程图重画.jpg" width="700" />
 <p><em>Framework of the proposed MDSAN method</em></p>
 </div>
 
@@ -170,7 +170,7 @@ If you find this work useful, please cite:
 MDSAN 是一个用于转速波动条件下轴承无监督跨域故障诊断的域自适应框架。它结合了**一维CNN + 多头自注意力**进行特征提取，以及**局部最大均值差异（LMMD）**进行子域级分布对齐，能够在无目标域标签的情况下实现不同运行转速之间的有效知识迁移。
 
 <div align="center">
-<img src="figures/framework.png" width="700" />
+<img src="研究流程图重画.jpg" width="700" />
 <p><em>所提 MDSAN 方法的框架图</em></p>
 </div>
 
